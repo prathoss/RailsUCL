@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc8870a5-b9b9-4dda-a312-572b1295da0b" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/my-app/app/assets/stylesheets/application.css" afterPath="$PROJECT_DIR$/my-app/app/assets/stylesheets/application.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/my-app/Gemfile" afterPath="$PROJECT_DIR$/my-app/Gemfile" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/my-app/Gemfile.lock" afterPath="$PROJECT_DIR$/my-app/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/my-app/app/assets/javascripts/application.js" afterPath="$PROJECT_DIR$/my-app/app/assets/javascripts/application.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/my-app/app/assets/stylesheets/tests.scss" afterPath="$PROJECT_DIR$/my-app/app/assets/stylesheets/tests.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/my-app/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/my-app/app/views/layouts/application.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/my-app/app/views/tests/index.html.erb" afterPath="$PROJECT_DIR$/my-app/app/views/tests/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/my-app/config/initializers/assets.rb" afterPath="$PROJECT_DIR$/my-app/config/initializers/assets.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,17 +26,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/my-app/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="36" column="48" lean-forward="false" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
+            <state relative-caret-position="345">
+              <caret line="38" column="40" lean-forward="false" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="application.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my-app/app/assets/stylesheets/application.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="324">
@@ -54,8 +49,8 @@
       <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my-app/app/views/tests/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <state relative-caret-position="397">
+              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -74,9 +69,9 @@
         <option value="$PROJECT_DIR$/my-app/app/assets/stylesheets/application.css" />
         <option value="$PROJECT_DIR$/my-app/app/assets/javascripts/application.js" />
         <option value="$PROJECT_DIR$/my-app/app/views/layouts/application.html.erb" />
+        <option value="$PROJECT_DIR$/my-app/app/assets/stylesheets/application.scss" />
         <option value="$PROJECT_DIR$/my-app/app/views/tests/index.html.erb" />
         <option value="$PROJECT_DIR$/my-app/Gemfile" />
-        <option value="$PROJECT_DIR$/my-app/app/assets/stylesheets/application.scss" />
       </list>
     </option>
   </component>
@@ -198,12 +193,12 @@
       <updated>1507579509463</updated>
       <workItem from="1507579514289" duration="1217000" />
       <workItem from="1507618299781" duration="1144000" />
-      <workItem from="1507620420888" duration="5574000" />
+      <workItem from="1507620420888" duration="7092000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7935000" />
+    <option name="totallyTimeSpent" value="9453000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="923" extended-state="6" />
@@ -326,26 +321,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/app/assets/stylesheets/application.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/my-app/app/views/tests/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        <state relative-caret-position="397">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/my-app/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="36" column="48" lean-forward="false" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-app/app/assets/stylesheets/application.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        <state relative-caret-position="345">
+          <caret line="38" column="40" lean-forward="false" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
           <folding />
         </state>
       </provider>
